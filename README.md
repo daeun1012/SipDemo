@@ -1,4 +1,4 @@
 # SipDemo
 Android SipDemo project
 
-call someone : <username>@<server>:<port>
+call someone : (username)@(server):(port)
